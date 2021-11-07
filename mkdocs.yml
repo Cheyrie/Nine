@@ -1,0 +1,31 @@
+#mkdocs serve
+site_name: MarkDown_Log
+site_url: https://yinzhipeng123.github.io/markdown_log/
+repo_name: MarkDown_Log
+repo_url: https://github.com/yinzhipeng123/markdown_log/
+copyright: MarkDown_Log - Documentation
+
+
+extra:
+  search:
+    language: 'zh_CN'
+  disqus: 'something'
+
+nav:
+- 家: index.md
+- Yum:
+  - ius源:
+    - iii: g杨春月/ius.md
+- 个人简历: 简历.md
+
+
+
+
+theme:
+  name: material
+  language: 'zh'
+plugins:
+  - search:
+      indexing: 'full'
+extra_javascript:
+    - '//busuanzi.ibruce.info//busuanzi/2.3/busuanzi.pure.mini.js'
