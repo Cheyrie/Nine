@@ -1,7 +1,6 @@
-# MarkDown_Log
+# Cheyrie
 
 ```bash
-本文档由于MkDocs进行生成
-
+首页，本文档由于MkDocs进行生成
 ```
 

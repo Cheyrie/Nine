@@ -1,9 +1,9 @@
 #mkdocs serve
-site_name: Nine
+site_name: Cheyrie
 site_url: https://cheyrie.github.io/Nine/
-repo_name: Nine
+repo_name: Cheyrie
 repo_url: https://github.com/Cheyrie/Nine.git
-copyright: Nine - Documentation
+copyright: Cheyrie - Documentation
 
 
 extra:
@@ -12,7 +12,7 @@ extra:
   disqus: 'something'
 
 nav:
-- 家: index.md
+- Cheyrie: index.md
 - Yum:
   - ius源:
     - iii: 杨春月/ius.md
