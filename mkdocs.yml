@@ -63,7 +63,9 @@ extra_javascript:
     - '//busuanzi.ibruce.info//busuanzi/2.3/busuanzi.pure.mini.js'
 
 nav:
-- 个人简历: 个人简历.md
-- 知识库: 文化.md
+- Home: 个人简历.md
+- 企业文化建设规划: 企业文化建设规划.md
+- 文化理念的萃取和共识：文化理念的萃取和共识.md
+
 
 
