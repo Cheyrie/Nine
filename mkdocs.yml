@@ -60,7 +60,7 @@ plugins:
   - search:
       indexing: 'full'
 extra_javascript:
-    - '//busuanzi.ibruce.info//busuanzi/2.3/busuanzi.pure.mini.js'
+    - '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
 
 nav:
 - 个人主页: 主页.md
