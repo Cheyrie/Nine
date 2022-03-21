@@ -30,7 +30,7 @@ else
 fi
 
 shopt -s extglob
-rm -rf !(mkdocs.yml|README.md|docs|site|.git|clear_code.sh|requirements.txt|build_option.ini|mac_clear_code.sh|.gitignore|venv)
+rm -rf !(mkdocs.yml|README.md|docs|site|.git|clear_code.sh|requirements.txt|build_option.ini|mac_clear_code.sh|.gitignore|venv|mac_see.sh)
 echo "删除完成"
 pip freeze > requirements.txt
 mkdocs build
